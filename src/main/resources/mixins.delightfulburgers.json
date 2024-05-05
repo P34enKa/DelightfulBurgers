@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_17",
+  "package": "net.luhcarti.delightfulburgers.mixin",
+  "refmap": "mixins.delightfulburgers.refmap.json",
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "mixins": [
+  ]
+}
