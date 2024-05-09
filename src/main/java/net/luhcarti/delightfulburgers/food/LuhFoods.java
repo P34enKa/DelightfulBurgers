@@ -10,4 +10,8 @@ public class LuhFoods {
             .nutrition(12).saturationMod(0.8f).build();
     public static final FoodProperties CHICKEN_BURGER = (new FoodProperties.Builder())
             .nutrition(11).saturationMod(0.8f).build();
+    public static final FoodProperties DOUBLE_PATTY_BURGER = (new FoodProperties.Builder())
+            .nutrition(13).saturationMod(0.8f).build();
+    public static final FoodProperties BASIC_BURGER = (new FoodProperties.Builder())
+            .nutrition(10).saturationMod(0.8f).build();
 }
